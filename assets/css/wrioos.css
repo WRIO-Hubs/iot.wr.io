@@ -8,6 +8,8 @@
 .benefits_list{margin:0 auto;max-width:300px;text-align:left}
   .benefits_list li{margin:10px 0}
   .benefits_list i{width:35px}
+.default{text-align:left}
+  .default li{list-style-type:disc}
 p span{color:#c08dff}
 p.date{color:#97a5bf}
 .alert-top{background-color:#7a0fff;margin-bottom:40px}
